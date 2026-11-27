@@ -1,0 +1,10 @@
+{
+  "name": "job-radar",
+  "version": "1.0.0",
+  "description": "Veille quotidienne d'offres d'emploi et de missions (freelance, CDI, CDD…) pour n'importe quel métier, avec score de pertinence et tableau de bord.",
+  "author": { "name": "SachaMoke" },
+  "homepage": "https://github.com/SachaMoke/job-radar",
+  "repository": "https://github.com/SachaMoke/job-radar",
+  "license": "MIT",
+  "keywords": ["emploi", "freelance", "veille", "job-board", "skill"]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "job-radar",
+  "owner": { "name": "SachaMoke" },
+  "plugins": [
+    {
+      "name": "job-radar",
+      "source": "./",
+      "description": "Veille quotidienne d'offres d'emploi et de missions, avec score de pertinence et tableau de bord."
+    }
+  ]
+}
