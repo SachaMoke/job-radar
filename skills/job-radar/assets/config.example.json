@@ -1,0 +1,39 @@
+{
+  "jobTitle": "Design System Manager",
+  "jobs": ["design system manager", "lead design system", "design ops", "head of design system", "design system lead"],
+  "searchKeywords": ["design system", "design ops", "design tokens", "lead design system"],
+  "exclude": ["graphisme pur", "motion", "3D", "développeur front-end seul", "stage"],
+  "contracts": ["freelance"],
+  "seniority": "senior",
+  "location": { "city": "Paris", "region": "Île-de-France", "country": "France" },
+  "remote": { "wanted": "partial", "maxOnsiteDaysPerWeek": 3, "acceptOnsiteIn": ["Paris", "Île-de-France"] },
+  "tjm": { "floor": 600, "target": 750 },
+  "salary": { "floor": null, "target": null },
+  "rhythm": "temps plein ou 4 jours par semaine",
+  "languages": ["français", "anglais"],
+  "strengths": ["design system", "figma", "accessibilité", "management", "ateliers", "design tokens"],
+  "sectorsLiked": ["SaaS", "banque", "assurance", "grands comptes"],
+  "sectorsAvoided": [],
+  "vocab": ["figma", "design system", "design tokens", "ux research", "ui", "prototypage", "ia", "accessibilité", "ux writing", "mobile", "saas b2b", "ateliers", "management", "design ops", "storybook", "front-end", "agile", "anglais"],
+  "sources": [
+    { "name": "Free-Work", "url": "https://www.free-work.com/fr/tech-it/jobs/design", "pages": 3, "prefix": "fw" },
+    { "name": "Free-Work", "url": "https://www.free-work.com/fr/tech-it/jobs/product-design", "prefix": "fw" },
+    { "name": "FreelanceRadar", "url": "https://www.freelanceradar.co/missions/ux-ui-designer/remote", "prefix": "fr" },
+    { "name": "Freelance-Informatique", "url": "https://www.freelance-informatique.fr/freelance-ux-design-2469", "prefix": "fi" }
+  ],
+  "searchQueries": [
+    "mission freelance design system Paris",
+    "freelance lead design system",
+    "mission freelance design ops",
+    "design system manager freelance"
+  ],
+  "channels": [
+    { "name": "Malt", "note": "Profil à jour, compétence « design system » mise en avant, disponibilité rafraîchie chaque semaine.", "url": "https://www.malt.fr" },
+    { "name": "Collective.work", "note": "Beaucoup de missions product et design, TJM souvent affiché.", "url": "https://www.collective.work" },
+    { "name": "Crème de la Crème", "note": "Missions sélectionnées pour profils confirmés, entrée sur sélection.", "url": "https://cremedelacreme.io" }
+  ],
+  "notifyThreshold": 70,
+  "maxAgeDays": 60,
+  "language": "fr",
+  "timezone": "Europe/Paris"
+}
